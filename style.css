@@ -25,7 +25,7 @@
   
   body .logo-wrap {
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 51%;
     transform: translate(-50%, -50%);
     width: 70%;
@@ -102,7 +102,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    padding-top: 25%;
+    padding-top: 5%;
   }
   
   /* Custom */
@@ -155,7 +155,7 @@
     place-content: center;
   
     padding: 1rem;
-    font-size: 1rem;
+    font-size: 2rem;
     line-height: 1rem;
   
     background-color: rgba(255, 255, 255, 0.08);
